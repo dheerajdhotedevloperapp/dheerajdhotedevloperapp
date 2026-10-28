@@ -3,14 +3,14 @@
 
 Email Me 👉 ✉️ **dheerahdhote628@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
-- 🔭 **I’m currently working on:** Enter your project info here
-- 🌱 **I’m currently learning:** Enter your tech here
-- 👯 **I’m looking to collaborate on:** Enter your project name and info
-- 🤔 **I’m looking for help with:** Your project here
-- 💬 **Ask me about:** Collaboration, Tech Support
-- 📫 **How to reach me:** Enter your email here
-- 😄 **Pronouns:** Imran Sir
-- ⚡ **Fun fact:** I Love Tech and Tech Love Me
+- 🔭 **I’m currently working on:** Microsoft Power Apps Development, Canvas Apps, Model-Driven Apps, and Power Automate solutions.
+- 🌱 **I’m currently learning:** Advanced Power Platform development, Copilot Studio, AI Builder, and workflow automation.
+- 👯 **I’m looking to collaborate on:** Power Platform projects, including Smart Invoice Processing, Intelligent IT Service Request Management, and Warehouse Inventory Verification
+- 🤔 **I’m looking for help with:** Building scalable Power Apps, optimizing Power Automate flows, Dataverse integration, and Power Platform best practices.
+- 💬 **Ask me about:** Power Apps, Power Automate, Power Fx, Dataverse, SharePoint, REST API integration, and business process automation.
+- 📫 **How to reach me:** dheerajdhote628@gmail.com
+- 😄 **Pronouns:** He/Him
+- ⚡ **Fun fact:** I love turning complex business processes into simple, smart, and automated solutions with Microsoft Power Platform!
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/dheeraj-d-46a698284) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:dheerajdhote628@gmail.com) 
