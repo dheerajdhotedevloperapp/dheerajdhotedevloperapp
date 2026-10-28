@@ -1,14 +1,14 @@
 # 💫 Hi 👋, I'm Dheeraj Dhote
 **A passionate Microsoft Power Platform Developer || Power Automate || Dataverse**
 
-Email Me 👉 ✉️ **dheerahdhote628@gmail.com** For Collaboration/Project or Anything Else. 😊😊
+Email Me 👉 ✉️ **dheerajdhote628@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
 - 🔭 **I’m currently working on:** Microsoft Power Apps Development, Canvas Apps, Model-Driven Apps, and Power Automate solutions.
 - 🌱 **I’m currently learning:** Advanced Power Platform development, Copilot Studio, AI Builder, and workflow automation.
 - 👯 **I’m looking to collaborate on:** Power Platform projects, including Smart Invoice Processing, Intelligent IT Service Request Management, and Warehouse Inventory Verification
 - 🤔 **I’m looking for help with:** Building scalable Power Apps, optimizing Power Automate flows, Dataverse integration, and Power Platform best practices.
 - 💬 **Ask me about:** Power Apps, Power Automate, Power Fx, Dataverse, SharePoint, REST API integration, and business process automation.
-- 📫 **How to reach me:** dheerajdhote628@gmail.com
+- 📫 **How to reach me:** www.linkedin.com/in/dheeraj-d-46a698284
 - 😄 **Pronouns:** He/Him
 - ⚡ **Fun fact:** I love turning complex business processes into simple, smart, and automated solutions with Microsoft Power Platform!
 
